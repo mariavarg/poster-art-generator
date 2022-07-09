@@ -1,7 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Amatic+SC&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
 body {
   margin: 0;
-  font-family: 'Amatic SC', cursive;
   color: #fff;
   background-color: #272727;
 }
